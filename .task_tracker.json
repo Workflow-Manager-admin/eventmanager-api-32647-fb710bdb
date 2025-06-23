@@ -1,0 +1,5 @@
+{
+  "task_description": "{'description': 'A backend API for managing events, including event creation, editing, listing, and deletion.', 'containers': [{'container_name': 'event_manager_backend', 'platform': 'backend', 'framework': 'fastapi', 'description': 'Handles event data storage, business logic, and API endpoints for event management.', 'interfaces': 'RESTful APIs for event CRUD operations', 'relative_path': 'event_manager_backend_workspace', 'dependencies': [], 'container_type': 'backend', 'container_details': 'CRUD endpoints for events: create, update, delete, list, and view event details'}], '3rd_party_services': [], 'figma_components': '', 'manifest_path': '/home/kavia/workspace/code-generation/.project_manifest.yaml'}",
+  "tasks": {},
+  "next_task_id": 1
+}
